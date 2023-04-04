@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-01T20:25:53 IST" name="Surefire suite" finished-at="2023-04-01T20:26:07 IST" duration-ms="13247">
+    <groups>
+    </groups>
+    <test started-at="2023-04-01T20:25:53 IST" name="Surefire test" finished-at="2023-04-01T20:26:07 IST" duration-ms="13247">
+      <class name="mpack.MVN2">
+        <test-method signature="demo112()[pri:0, instance:mpack.MVN2@78dd667e]" started-at="2023-04-01T20:25:53 IST" name="demo112" finished-at="2023-04-01T20:26:07 IST" duration-ms="13201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo112 -->
+      </class> <!-- mpack.MVN2 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
